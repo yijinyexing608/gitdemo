@@ -15,5 +15,6 @@ hello world,hello wisdom!
 hello world,hello wisdom!
 hello world,hello wisdom!
 hello world,hello wisdom!master test
+hello world,hello wisdom!hotfix test
 branch checkout 
 I have updated this file
